@@ -99,7 +99,7 @@ const CONFIG = {
     {
       category: 'Microsoft',
       name: 'OneNote',
-      key: 'dc',
+      key: 'on',
       url: 'https://www.onenote.com/notebooks?auth=1&nf=1&fromAR=1',
       color: '#7289da',
       icon: 'onenote',
@@ -108,7 +108,7 @@ const CONFIG = {
     {
       category: 'Microsoft',
       name: 'BusinessCentral',
-      key: 'dc',
+      key: 'bc',
       url: 'https://businesscentral.dynamics.com/1b53b3cd-3eb8-4d53-8d02-e11a98cf1f76/Sandbox-Dev',
       color: '#7289da',
       icon: 'businesscentral',

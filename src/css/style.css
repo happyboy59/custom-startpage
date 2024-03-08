@@ -164,14 +164,14 @@ template {
 
 @font-face {
   font-family: 'Metropolis';
-  src: local('Metropolis-Medium'), url('../assets/fonts/Metropolis-Medium.woff2');
+  src: local('Metropolis-Medium'), url('../fonts/Metropolis-Medium.woff2');
   font-weight: 500;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Metropolis';
-  src: local('Metropolis-Bold'), url('../assets/fonts/Metropolis-Black.woff2');
+  src: local('Metropolis-Bold'), url('../fonts/Metropolis-Black.woff2');
   font-weight: 900;
   font-style: normal;
 }
