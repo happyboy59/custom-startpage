@@ -44,7 +44,7 @@ const CONFIG = {
     {
       category: 'Google',
       name: 'Keep',
-      key: 'tg',
+      key: 'k',
       url: 'https://keep.google.com/',
       //color: '#5682a3',
       icon: 'Keep',
@@ -62,7 +62,7 @@ const CONFIG = {
     {
       category: 'Google',
       name: 'Translate',
-      key: 'w',
+      key: 't',
       url: 'https://translate.google.com/',
       color: 'linear-gradient(135deg, #25D366, #128C7E, #075E54)',
       icon: 'translate',
@@ -81,7 +81,7 @@ const CONFIG = {
     {
       category: 'Microsoft',
       name: 'Outlook',
-      key: 'dc',
+      key: 'o',
       url: 'https://outlook.live.com/mail/0/',
       color: '#7289da',
       icon: 'outlook',
@@ -90,7 +90,7 @@ const CONFIG = {
     {
       category: 'Microsoft',
       name: 'Teams',
-      key: 'dc',
+      key: 't',
       url: 'https://teams.live.com/_#/conversations/?ctx=chat',
       color: '#7289da',
       icon: 'teams',
@@ -117,7 +117,7 @@ const CONFIG = {
     {
       category: 'Microsoft',
       name: 'PowerApps',
-      key: 'dc',
+      key: 'pa',
       url: 'https://make.powerapps.com/environments/35796dcf-a2a8-ef02-9f13-9ed760616ddd/home?utm_source=office&utm_medium=app_launcher&utm_campaign=office_referrals',
       color: '#7289da',
       icon: 'powerapps',
@@ -126,7 +126,7 @@ const CONFIG = {
     {
       category: 'Microsoft',
       name: 'PowerAutomate',
-      key: 'dc',
+      key: 'pa',
       url: 'https://make.powerautomate.com/environments/35796dcf-a2a8-ef02-9f13-9ed760616ddd/flows',
       color: '#7289da',
       icon: 'powerautomate',
@@ -135,7 +135,7 @@ const CONFIG = {
     {
       category: 'Microsoft',
       name: 'PowerBI',
-      key: 'dc',
+      key: 'pb',
       url: 'https://app.powerbi.com/home?experience=power-bi',
       color: '#7289da',
       icon: 'powerbi',
@@ -207,7 +207,7 @@ const CONFIG = {
     {
       category: 'Tools',
       name: 'Replit',
-      key: 'tw',
+      key: 'rp',
       url: 'https://replit.com/',
       search: '/directory/game/{}',
       color: 'linear-gradient(135deg, #6441a5, #4b367c)',
@@ -217,7 +217,7 @@ const CONFIG = {
     {
       category: 'Tools',
       name: 'VSCode',
-      key: 'gp',
+      key: 'vs',
       url: 'https://vscode.dev/',
       color: 'linear-gradient(135deg, #E50914, #CB020C)',
       icon: 'vscode',
@@ -235,7 +235,7 @@ const CONFIG = {
     {
       category: 'Tools',
       name: 'Cloudflare',
-      key: 's',
+      key: 'cf',
       url: 'https://www.cloudflare.com/',
       search: '/search/{}',
       color: '#1dd35e',
@@ -247,7 +247,7 @@ const CONFIG = {
     {
       category: 'Other',
       name: 'Canva',
-      key: 't',
+      key: 'c',
       url: 'https://www.canva.com/',
       search: '/search?q={}&src=typed_query',
       color: 'linear-gradient(135deg, #1DA1F2, #19608F)',
